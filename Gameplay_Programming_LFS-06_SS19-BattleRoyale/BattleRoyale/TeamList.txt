@@ -1,0 +1,5 @@
+Name                     Matriculation Number       	E-Mail
+====                     ====================  		============
+
+Fred Newton Akdogan	35551				fa019@hdm-stuttgart.de
+Rouven Stephan		32947				rs108@hdm-stuttgart.de
